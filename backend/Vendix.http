@@ -1,0 +1,6 @@
+@Vendix_HostAddress = http://localhost:5223
+
+GET {{Vendix_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
