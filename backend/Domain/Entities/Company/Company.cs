@@ -10,6 +10,7 @@ namespace backend.Doamin.Entity
         public ICollection<User> Users{get;set;} = new List<User>();
         public ICollection<Product> Products{get;set;} = new List<Product>();
         public CompanySettings CompanySettings{get;set;}
+        public CompanyAdress CompanyAdress{get;set;}
         
     }
 }
