@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vendix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2583915f766e0d425220080c3e245f44a5599168")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b2f0215874a95450f7d4138a52010719d305ee3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vendix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vendix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
