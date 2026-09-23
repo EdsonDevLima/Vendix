@@ -12,9 +12,14 @@ namespace backend.Infraestructure.database{
         DbSet<CompanySettings> CompanySettings{get;set;}
 
         DbSet<Product> Product{get;set;}
+        DbSet<ProductCategory> ProducCategory{get;set;}
+        DbSet<ProductGoal> ProductGoal{get;set;}
+        DbSet<ProductSettingsDescription> ProductSettingsDescription{get;set;}
+
+        
         DbSet<UserAdress> UserAdress{get;set;}
         DbSet<UserOrder> Orders{get;set;}
-        DbSet<User>
+        DbSet<User> User{get;set;}
 
 
     }

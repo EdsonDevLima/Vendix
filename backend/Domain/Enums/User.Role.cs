@@ -1,10 +1,11 @@
 namespace backend.Doamin.Entity
 {
-    enum UserRole
+    enum EUserRole
     {
         admin,
         customer,
-        
+        employee
+
 
     }
 }
